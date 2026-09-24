@@ -40,7 +40,8 @@ Inspection is carried out using vernier calipers, micrometers, and dial gauges. 
 8. Plant Layout
 The plant layout is designed to ensure smooth material flow, minimum handling time, and operator safety. The layout includes designated areas for raw material storage, CNC machining, NC machining, conveyors, inspection, and finished goods storage.
 The plant layout design is prepared using DELMIA Plant Layout Design and is shown in the figure below. The uploaded layout image represents the top-view arrangement of machines, safety fencing, conveyor system, storage racks, and inspection area.
-<img width="1600" height="900" alt="WhatsApp Image 2026-06-12 at 10 38 59 AM" src="https://github.com/user-attachments/assets/136a93c8-4d31-4d01-8149-a8e71fc1a817" />
+<<img width="1920" height="1080" alt="Screenshot 2026-09-21 155330" src="https://github.com/user-attachments/assets/4d041d66-4b84-4864-960d-5f93bc5edee7" />
+ />
 
 
  
